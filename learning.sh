@@ -8,3 +8,4 @@
 # Add example to list contents in long format
 # Add script to change ownership of a file
 # Add script that loops through directories in PATH
+# Add script piping output to wc -l
