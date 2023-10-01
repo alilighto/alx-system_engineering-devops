@@ -6,3 +6,4 @@
 # Add script to display effective user ID
 # Create script using symbolic chmod notation
 # Add example to list contents in long format
+# Add script to change ownership of a file
