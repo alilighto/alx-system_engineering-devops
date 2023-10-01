@@ -4,3 +4,4 @@
 # Fix chmod script to handle invalid input
 # Create script that appends timestamp to logs
 # Add script to display effective user ID
+# Create script using symbolic chmod notation
