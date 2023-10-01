@@ -3,3 +3,4 @@
 # Add interactive script to ask for input
 # Fix chmod script to handle invalid input
 # Create script that appends timestamp to logs
+# Add script to display effective user ID
