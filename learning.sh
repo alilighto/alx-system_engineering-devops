@@ -9,3 +9,4 @@
 # Add script to change ownership of a file
 # Add script that loops through directories in PATH
 # Add script piping output to wc -l
+# Add cleanup script using shell wildcards
