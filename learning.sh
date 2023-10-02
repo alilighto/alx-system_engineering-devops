@@ -26,3 +26,4 @@
 # Add script using nested variable expansions
 # Add script to display contents of /tmp directory
 # Fix broken alias in configuration script
+# Add separator lines between script sections
