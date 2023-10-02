@@ -27,3 +27,4 @@
 # Add script to display contents of /tmp directory
 # Fix broken alias in configuration script
 # Add separator lines between script sections
+# Fix script using >& instead of correct 2>&1
