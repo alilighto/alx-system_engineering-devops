@@ -12,3 +12,4 @@
 # Add cleanup script using shell wildcards
 # Add script using parameter expansion ${VAR:-default}
 # Add script showing PATH manipulation
+# Create script using alias definition
