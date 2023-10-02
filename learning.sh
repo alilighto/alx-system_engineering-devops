@@ -24,3 +24,4 @@
 # Add comments explaining execution order of commands
 # Add script using `printenv` to list variables
 # Add script using nested variable expansions
+# Add script to display contents of /tmp directory
