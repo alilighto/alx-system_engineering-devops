@@ -19,3 +19,4 @@
 # Add script redirecting stderr to stdout
 # Create script that reads input using <<
 # Add script using += to append to variable
+# Fix script using incorrect expansion format
