@@ -18,3 +18,4 @@
 # Fix typo in echo and redirection command
 # Add script redirecting stderr to stdout
 # Create script that reads input using <<
+# Add script using += to append to variable
