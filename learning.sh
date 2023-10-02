@@ -13,3 +13,4 @@
 # Add script using parameter expansion ${VAR:-default}
 # Add script showing PATH manipulation
 # Create script using alias definition
+# Add script to discard output using /dev/null
