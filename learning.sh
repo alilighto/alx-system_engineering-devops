@@ -25,3 +25,4 @@
 # Add script using `printenv` to list variables
 # Add script using nested variable expansions
 # Add script to display contents of /tmp directory
+# Fix broken alias in configuration script
