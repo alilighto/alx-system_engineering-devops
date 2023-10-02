@@ -16,3 +16,4 @@
 # Add script to discard output using /dev/null
 # Fix order of operations in variable expansion
 # Fix typo in echo and redirection command
+# Add script redirecting stderr to stdout
