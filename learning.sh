@@ -33,3 +33,4 @@
 # Fix redirection syntax in log writer script
 # Fix spacing in `cd ../` navigation
 # Add script combining grep and sort with pipe
+# Fix shadowed variable in export test
