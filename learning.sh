@@ -41,3 +41,4 @@
 # Refactor variable expansion examples
 # Add comments to permission setting script
 # Fix script using >& instead of correct 2>&1
+# Create script showing special variables ($0, $1, etc)
