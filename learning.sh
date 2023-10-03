@@ -37,3 +37,4 @@
 # Add environment variable assignment script
 # Fix script using >& instead of correct 2>&1
 # Add script redirecting stderr to stdout
+# Fix typo in echo and redirection command
