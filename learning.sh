@@ -44,3 +44,4 @@
 # Create script showing special variables ($0, $1, etc)
 # 
 # Add quiz script to test environment variable usage
+# Improve comments in navigation scripts
