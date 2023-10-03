@@ -32,3 +32,4 @@
 # Add script piping output to wc -l
 # Fix redirection syntax in log writer script
 # Fix spacing in `cd ../` navigation
+# Add script combining grep and sort with pipe
