@@ -35,3 +35,4 @@
 # Add script combining grep and sort with pipe
 # Fix shadowed variable in export test
 # Add environment variable assignment script
+# Fix script using >& instead of correct 2>&1
