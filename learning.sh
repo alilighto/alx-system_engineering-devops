@@ -29,3 +29,4 @@
 # Add separator lines between script sections
 # Fix script using >& instead of correct 2>&1
 # Add script using nested variable expansions
+# Add script piping output to wc -l
