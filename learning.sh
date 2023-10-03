@@ -45,3 +45,4 @@
 # 
 # Add quiz script to test environment variable usage
 # Improve comments in navigation scripts
+# Fix redirection syntax in log writer script
