@@ -30,3 +30,4 @@
 # Fix script using >& instead of correct 2>&1
 # Add script using nested variable expansions
 # Add script piping output to wc -l
+# Fix redirection syntax in log writer script
