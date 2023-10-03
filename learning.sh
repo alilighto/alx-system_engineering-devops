@@ -39,3 +39,4 @@
 # Add script redirecting stderr to stdout
 # Fix typo in echo and redirection command
 # Refactor variable expansion examples
+# Add comments to permission setting script
