@@ -47,3 +47,4 @@
 # Improve comments in navigation scripts
 # Fix redirection syntax in log writer script
 # Fix command not found error in expansion test
+# Add use of chmod u+x on shell script
