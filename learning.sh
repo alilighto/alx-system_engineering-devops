@@ -59,3 +59,4 @@
 # Fix file descriptor duplication issue
 # Add script with conditional permissions check
 # Refactor variable expansion examples
+# Create script to change current directory
