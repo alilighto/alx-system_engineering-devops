@@ -62,3 +62,4 @@
 # Create script to change current directory
 # Add environment variable assignment script
 # Fix invalid characters in variable names
+# Add script using nested variable expansions
