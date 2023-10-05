@@ -54,3 +54,4 @@
 # Add shebang check in all scripts
 # Fix redirection syntax in log writer script
 # Fix spacing in PATH variable export
+# Fix shadowed variable in export test
