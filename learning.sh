@@ -52,3 +52,4 @@
 # Fix file descriptor duplication issue
 # Add example showing variable scope
 # Add shebang check in all scripts
+# Fix redirection syntax in log writer script
