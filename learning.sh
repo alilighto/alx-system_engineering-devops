@@ -61,3 +61,4 @@
 # Refactor variable expansion examples
 # Create script to change current directory
 # Add environment variable assignment script
+# Fix invalid characters in variable names
