@@ -58,3 +58,4 @@
 # Add script to discard output using /dev/null
 # Fix file descriptor duplication issue
 # Add script with conditional permissions check
+# Refactor variable expansion examples
