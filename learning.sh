@@ -60,3 +60,4 @@
 # Add script with conditional permissions check
 # Refactor variable expansion examples
 # Create script to change current directory
+# Add environment variable assignment script
