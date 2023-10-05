@@ -50,3 +50,4 @@
 # Add use of chmod u+x on shell script
 # Add script that unsets variables
 # Fix file descriptor duplication issue
+# Add example showing variable scope
