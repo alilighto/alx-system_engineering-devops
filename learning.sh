@@ -51,3 +51,4 @@
 # Add script that unsets variables
 # Fix file descriptor duplication issue
 # Add example showing variable scope
+# Add shebang check in all scripts
