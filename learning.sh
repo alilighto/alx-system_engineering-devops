@@ -65,3 +65,4 @@
 # Add script using nested variable expansions
 # Create script demonstrating stderr redirection
 # Add script piping output to wc -l
+# Refactor redirection script with 2>&1
