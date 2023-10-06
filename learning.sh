@@ -68,3 +68,4 @@
 # Refactor redirection script with 2>&1
 # Fix loop variable conflict in PATH appender
 # Fix script using >& instead of correct 2>&1
+# Fix pipe failure in redirection combo script
