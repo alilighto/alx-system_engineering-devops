@@ -71,3 +71,4 @@
 # Fix pipe failure in redirection combo script
 # Add script combining input redirection with loop
 # Fix file descriptor duplication issue
+# Fix incorrect permissions on test script
