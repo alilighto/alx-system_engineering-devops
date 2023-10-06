@@ -73,3 +73,4 @@
 # Fix file descriptor duplication issue
 # Fix incorrect permissions on test script
 # Add script that writes to a file using > operator
+# Add comments explaining execution order of commands
