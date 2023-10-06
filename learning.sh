@@ -72,3 +72,4 @@
 # Add script combining input redirection with loop
 # Fix file descriptor duplication issue
 # Fix incorrect permissions on test script
+# Add script that writes to a file using > operator
