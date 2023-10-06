@@ -74,3 +74,4 @@
 # Fix incorrect permissions on test script
 # Add script that writes to a file using > operator
 # Add comments explaining execution order of commands
+# Use relative path for directory navigation script
