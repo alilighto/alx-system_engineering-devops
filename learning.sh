@@ -64,3 +64,4 @@
 # Fix invalid characters in variable names
 # Add script using nested variable expansions
 # Create script demonstrating stderr redirection
+# Add script piping output to wc -l
