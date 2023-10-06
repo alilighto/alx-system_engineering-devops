@@ -67,3 +67,4 @@
 # Add script piping output to wc -l
 # Refactor redirection script with 2>&1
 # Fix loop variable conflict in PATH appender
+# Fix script using >& instead of correct 2>&1
