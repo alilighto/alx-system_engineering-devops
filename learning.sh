@@ -75,3 +75,4 @@
 # Add script that writes to a file using > operator
 # Add comments explaining execution order of commands
 # Use relative path for directory navigation script
+# Fix script using >& instead of correct 2>&1
