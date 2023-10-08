@@ -83,3 +83,4 @@
 # Fix typo in ls script arguments
 # Fix invalid syntax in arithmetic expansion
 # Add separator lines between script sections
+# Add script to display effective user ID
