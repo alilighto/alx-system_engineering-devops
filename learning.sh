@@ -79,3 +79,4 @@
 # Add example to list contents in long format
 # Fix chmod script to handle invalid input
 # Add script to print defined variables
+# Refactor script that moves files
