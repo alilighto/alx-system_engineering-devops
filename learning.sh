@@ -90,3 +90,4 @@
 # Add explanation comments to every example
 # Add script using arithmetic expansion $(( ))
 # Add use of chmod u+x on shell script
+# Add script to view numeric permission codes
