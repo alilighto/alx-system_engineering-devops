@@ -84,3 +84,4 @@
 # Fix invalid syntax in arithmetic expansion
 # Add separator lines between script sections
 # Add script to display effective user ID
+# Fix shadowed variable in export test
