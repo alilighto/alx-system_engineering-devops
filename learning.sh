@@ -80,3 +80,4 @@
 # Fix chmod script to handle invalid input
 # Add script to print defined variables
 # Refactor script that moves files
+# Fix typo in ls script arguments
