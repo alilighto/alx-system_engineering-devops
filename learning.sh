@@ -85,3 +85,4 @@
 # Add separator lines between script sections
 # Add script to display effective user ID
 # Fix shadowed variable in export test
+# Add script redirecting stderr to stdout
