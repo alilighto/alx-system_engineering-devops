@@ -82,3 +82,4 @@
 # Refactor script that moves files
 # Fix typo in ls script arguments
 # Fix invalid syntax in arithmetic expansion
+# Add separator lines between script sections
