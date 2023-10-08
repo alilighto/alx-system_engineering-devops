@@ -88,3 +88,4 @@
 # Add script redirecting stderr to stdout
 # Fix invalid characters in variable names
 # Add explanation comments to every example
+# Add script using arithmetic expansion $(( ))
