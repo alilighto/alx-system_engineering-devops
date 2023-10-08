@@ -78,3 +78,4 @@
 # Fix script using >& instead of correct 2>&1
 # Add example to list contents in long format
 # Fix chmod script to handle invalid input
+# Add script to print defined variables
