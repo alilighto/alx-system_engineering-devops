@@ -100,3 +100,4 @@
 # Fix pipe failure in redirection combo script
 # Fix unset variable expansion warning
 # Create script to switch user using su
+# Add example to list contents in long format
