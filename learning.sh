@@ -104,3 +104,4 @@
 # Create script using find to locate files
 # Add script showing PATH manipulation
 # Fix order of redirection in combined output script
+# Add separator lines between script sections
