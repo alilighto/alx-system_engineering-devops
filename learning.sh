@@ -97,3 +97,4 @@
 # Add shebang check in all scripts
 # Add shebang check in all scripts
 # Add example using append redirection >>
+# Fix pipe failure in redirection combo script
