@@ -91,3 +91,4 @@
 # Add script using arithmetic expansion $(( ))
 # Add use of chmod u+x on shell script
 # Add script to view numeric permission codes
+# Add example to list contents in long format
