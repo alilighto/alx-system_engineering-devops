@@ -105,3 +105,4 @@
 # Add script showing PATH manipulation
 # Fix order of redirection in combined output script
 # Add separator lines between script sections
+# Fix broken alias in configuration script
