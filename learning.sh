@@ -99,3 +99,4 @@
 # Add example using append redirection >>
 # Fix pipe failure in redirection combo script
 # Fix unset variable expansion warning
+# Create script to switch user using su
