@@ -107,3 +107,4 @@
 # Add separator lines between script sections
 # Fix broken alias in configuration script
 # Add `set -e` to fail on error in script
+# Add script that renames multiple files using loop
