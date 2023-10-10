@@ -111,3 +111,4 @@
 # Use relative path for directory navigation script
 # Add explanation comments to every example
 # Fix pipe failure in redirection combo script
+# Fix spacing in PATH variable export
