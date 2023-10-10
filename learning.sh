@@ -114,3 +114,4 @@
 # Fix spacing in PATH variable export
 # Add script to set multiple permissions at once
 # Add script using parameter expansion ${VAR:-default}
+# Add interactive script to ask for input
