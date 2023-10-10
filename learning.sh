@@ -109,3 +109,4 @@
 # Add `set -e` to fail on error in script
 # Add script that renames multiple files using loop
 # Use relative path for directory navigation script
+# Add explanation comments to every example
