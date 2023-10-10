@@ -113,3 +113,4 @@
 # Fix pipe failure in redirection combo script
 # Fix spacing in PATH variable export
 # Add script to set multiple permissions at once
+# Add script using parameter expansion ${VAR:-default}
