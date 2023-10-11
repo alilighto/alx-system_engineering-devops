@@ -116,3 +116,4 @@
 # Add script using parameter expansion ${VAR:-default}
 # Add interactive script to ask for input
 # Add script to change ownership of a file
+# Fix incorrect permissions on test script
