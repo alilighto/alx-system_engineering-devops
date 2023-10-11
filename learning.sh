@@ -117,3 +117,4 @@
 # Add interactive script to ask for input
 # Add script to change ownership of a file
 # Fix incorrect permissions on test script
+# Fix user permission denied error in chmod
