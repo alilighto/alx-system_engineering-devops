@@ -119,3 +119,4 @@
 # Fix incorrect permissions on test script
 # Fix user permission denied error in chmod
 # Add environment variable assignment script
+# Add script to print defined variables
