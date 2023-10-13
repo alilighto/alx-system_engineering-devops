@@ -133,3 +133,4 @@
 # Fix chmod script to handle invalid input
 # Fix invalid syntax in arithmetic expansion
 # Fix bug where export wasn’t persistent
+# Add script that evaluates expressions with `expr`
