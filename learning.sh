@@ -120,3 +120,4 @@
 # Fix user permission denied error in chmod
 # Add environment variable assignment script
 # Add script to print defined variables
+# Add script showing usage of | with grep
