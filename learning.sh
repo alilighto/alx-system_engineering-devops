@@ -126,3 +126,4 @@
 # Add script to display contents of /tmp directory
 # Add script that renames multiple files using loop
 # Add cleanup script using shell wildcards
+# Fix spacing inconsistency in script headers
