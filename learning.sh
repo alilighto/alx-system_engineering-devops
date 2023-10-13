@@ -132,3 +132,4 @@
 # Add script to view numeric permission codes
 # Fix chmod script to handle invalid input
 # Fix invalid syntax in arithmetic expansion
+# Fix bug where export wasn’t persistent
