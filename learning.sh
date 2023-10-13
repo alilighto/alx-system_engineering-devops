@@ -135,3 +135,4 @@
 # Fix bug where export wasn’t persistent
 # Add script that evaluates expressions with `expr`
 # Add script to change ownership of a file
+# Fix loop variable conflict in PATH appender
