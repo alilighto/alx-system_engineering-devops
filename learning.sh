@@ -137,3 +137,4 @@
 # Add script to change ownership of a file
 # Fix loop variable conflict in PATH appender
 # Add script exporting dynamic variable values
+# Create script demonstrating stderr redirection
