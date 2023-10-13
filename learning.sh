@@ -129,3 +129,4 @@
 # Fix spacing inconsistency in script headers
 # Add script showing PATH manipulation
 # Fix missing shebang in shell_basics script
+# Add script to view numeric permission codes
