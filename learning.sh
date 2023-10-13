@@ -127,3 +127,4 @@
 # Add script that renames multiple files using loop
 # Add cleanup script using shell wildcards
 # Fix spacing inconsistency in script headers
+# Add script showing PATH manipulation
