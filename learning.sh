@@ -123,3 +123,4 @@
 # Add script showing usage of | with grep
 # Add script piping output to wc -l
 # Fix invalid characters in variable names
+# Add script to display contents of /tmp directory
