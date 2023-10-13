@@ -131,3 +131,4 @@
 # Fix missing shebang in shell_basics script
 # Add script to view numeric permission codes
 # Fix chmod script to handle invalid input
+# Fix invalid syntax in arithmetic expansion
