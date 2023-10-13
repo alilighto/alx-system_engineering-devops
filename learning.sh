@@ -122,3 +122,4 @@
 # Add script to print defined variables
 # Add script showing usage of | with grep
 # Add script piping output to wc -l
+# Fix invalid characters in variable names
