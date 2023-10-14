@@ -151,3 +151,4 @@
 # Add chmod example to set execute permission
 # Fix spacing in `cd ../` navigation
 # Add environment variable assignment script
+# Fix broken heredoc example in script
