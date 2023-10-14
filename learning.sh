@@ -150,3 +150,4 @@
 # Fix order of operations in variable expansion
 # Add chmod example to set execute permission
 # Fix spacing in `cd ../` navigation
+# Add environment variable assignment script
