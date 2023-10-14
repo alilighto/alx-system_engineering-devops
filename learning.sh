@@ -142,3 +142,4 @@
 # Refactor variable expansion examples
 # Create script that appends timestamp to logs
 # Add example to list contents in long format
+# Add script that evaluates expressions with `expr`
