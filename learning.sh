@@ -139,3 +139,4 @@
 # Add script exporting dynamic variable values
 # Create script demonstrating stderr redirection
 # Add example chaining commands using pipes
+# Refactor variable expansion examples
