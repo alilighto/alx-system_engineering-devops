@@ -146,3 +146,4 @@
 # Add script that renames multiple files using loop
 # Add script that unsets variables
 # Create script demonstrating stderr redirection
+# Add comments explaining execution order of commands
