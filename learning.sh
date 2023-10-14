@@ -145,3 +145,4 @@
 # Add script that evaluates expressions with `expr`
 # Add script that renames multiple files using loop
 # Add script that unsets variables
+# Create script demonstrating stderr redirection
