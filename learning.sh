@@ -149,3 +149,4 @@
 # Add comments explaining execution order of commands
 # Fix order of operations in variable expansion
 # Add chmod example to set execute permission
+# Fix spacing in `cd ../` navigation
