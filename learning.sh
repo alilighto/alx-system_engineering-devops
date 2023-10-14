@@ -147,3 +147,4 @@
 # Add script that unsets variables
 # Create script demonstrating stderr redirection
 # Add comments explaining execution order of commands
+# Fix order of operations in variable expansion
