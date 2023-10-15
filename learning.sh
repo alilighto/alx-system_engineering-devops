@@ -156,3 +156,4 @@
 # Add test for empty variables before usage
 # Create script using find to locate files
 # Add environment variable assignment script
+# Add script with conditional permissions check
