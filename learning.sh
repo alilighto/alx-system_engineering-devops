@@ -152,3 +152,4 @@
 # Fix spacing in `cd ../` navigation
 # Add environment variable assignment script
 # Fix broken heredoc example in script
+# Fix invalid character in chmod +x line
