@@ -153,3 +153,4 @@
 # Add environment variable assignment script
 # Fix broken heredoc example in script
 # Fix invalid character in chmod +x line
+# Add test for empty variables before usage
