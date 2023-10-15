@@ -157,3 +157,4 @@
 # Create script using find to locate files
 # Add environment variable assignment script
 # Add script with conditional permissions check
+# Add script using `printenv` to list variables
