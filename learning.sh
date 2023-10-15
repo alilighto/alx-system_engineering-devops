@@ -155,3 +155,4 @@
 # Fix invalid character in chmod +x line
 # Add test for empty variables before usage
 # Create script using find to locate files
+# Add environment variable assignment script
