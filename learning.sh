@@ -170,3 +170,4 @@
 # Fix loop variable conflict in PATH appender
 # Add script that unsets variables
 # Add quiz script to test environment variable usage
+# Add script using parameter expansion ${VAR:-default}
