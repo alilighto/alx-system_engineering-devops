@@ -172,3 +172,4 @@
 # Add quiz script to test environment variable usage
 # Add script using parameter expansion ${VAR:-default}
 # Add example to list contents in long format
+# Add script piping output to wc -l
