@@ -167,3 +167,4 @@
 # Add script to display effective user ID
 # Fix typo in echo and redirection command
 # Add script that loops through directories in PATH
+# Fix loop variable conflict in PATH appender
