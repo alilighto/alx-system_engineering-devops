@@ -163,3 +163,4 @@
 # Add script to prepend a directory to PATH
 # Fix typo in echo and redirection command
 # Add quiz script to test environment variable usage
+# Fix unset variable expansion warning
