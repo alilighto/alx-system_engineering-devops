@@ -159,3 +159,4 @@
 # Add script with conditional permissions check
 # Add script using `printenv` to list variables
 # Create script demonstrating stderr redirection
+# Fix chmod script to handle invalid input
