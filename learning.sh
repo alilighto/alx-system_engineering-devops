@@ -166,3 +166,4 @@
 # Fix unset variable expansion warning
 # Add script to display effective user ID
 # Fix typo in echo and redirection command
+# Add script that loops through directories in PATH
