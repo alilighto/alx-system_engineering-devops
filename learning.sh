@@ -161,3 +161,4 @@
 # Create script demonstrating stderr redirection
 # Fix chmod script to handle invalid input
 # Add script to prepend a directory to PATH
+# Fix typo in echo and redirection command
