@@ -160,3 +160,4 @@
 # Add script using `printenv` to list variables
 # Create script demonstrating stderr redirection
 # Fix chmod script to handle invalid input
+# Add script to prepend a directory to PATH
