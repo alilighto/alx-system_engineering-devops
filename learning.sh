@@ -165,3 +165,4 @@
 # Add quiz script to test environment variable usage
 # Fix unset variable expansion warning
 # Add script to display effective user ID
+# Fix typo in echo and redirection command
