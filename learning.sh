@@ -183,3 +183,4 @@
 # Fix spacing in `cd ../` navigation
 # Add cleanup script using shell wildcards
 # Add cleanup script using shell wildcards
+# Add quiz script to test environment variable usage
