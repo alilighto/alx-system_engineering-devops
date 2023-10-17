@@ -176,3 +176,4 @@
 # Add script that loops through directories in PATH
 # Create script using alias definition
 # Add use of chmod u+x on shell script
+# Add script combining read and variable expansion
