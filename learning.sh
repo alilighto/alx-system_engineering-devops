@@ -177,3 +177,4 @@
 # Create script using alias definition
 # Add use of chmod u+x on shell script
 # Add script combining read and variable expansion
+# Fix user permission denied error in chmod
