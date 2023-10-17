@@ -181,3 +181,4 @@
 # Add `set -e` to fail on error in script
 # Fix spacing inconsistency in script headers
 # Fix spacing in `cd ../` navigation
+# Add cleanup script using shell wildcards
