@@ -180,3 +180,4 @@
 # Fix user permission denied error in chmod
 # Add `set -e` to fail on error in script
 # Fix spacing inconsistency in script headers
+# Fix spacing in `cd ../` navigation
