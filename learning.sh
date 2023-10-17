@@ -186,3 +186,4 @@
 # Add quiz script to test environment variable usage
 # Fix typo in echo and redirection command
 # Fix order of redirection in combined output script
+# Add interactive script to ask for input
