@@ -190,3 +190,4 @@
 # Add example to list contents in long format
 # Fix invalid character in chmod +x line
 # Add test for empty variables before usage
+# Fix invalid character in chmod +x line
