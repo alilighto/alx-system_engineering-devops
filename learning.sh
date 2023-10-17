@@ -188,3 +188,4 @@
 # Fix order of redirection in combined output script
 # Add interactive script to ask for input
 # Add example to list contents in long format
+# Fix invalid character in chmod +x line
