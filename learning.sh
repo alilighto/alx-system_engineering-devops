@@ -175,3 +175,4 @@
 # Add script piping output to wc -l
 # Add script that loops through directories in PATH
 # Create script using alias definition
+# Add use of chmod u+x on shell script
