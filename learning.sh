@@ -187,3 +187,4 @@
 # Fix typo in echo and redirection command
 # Fix order of redirection in combined output script
 # Add interactive script to ask for input
+# Add example to list contents in long format
