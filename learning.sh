@@ -174,3 +174,4 @@
 # Add example to list contents in long format
 # Add script piping output to wc -l
 # Add script that loops through directories in PATH
+# Create script using alias definition
