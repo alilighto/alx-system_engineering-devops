@@ -178,3 +178,4 @@
 # Add use of chmod u+x on shell script
 # Add script combining read and variable expansion
 # Fix user permission denied error in chmod
+# Add `set -e` to fail on error in script
