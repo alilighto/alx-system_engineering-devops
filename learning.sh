@@ -193,3 +193,4 @@
 # Fix invalid character in chmod +x line
 # Add script to view numeric permission codes
 # Create script to change current directory
+# Add script to print working directory (pwd)
