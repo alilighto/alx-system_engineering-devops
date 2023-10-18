@@ -194,3 +194,4 @@
 # Add script to view numeric permission codes
 # Create script to change current directory
 # Add script to print working directory (pwd)
+# Fix missing shebang in shell_basics script
