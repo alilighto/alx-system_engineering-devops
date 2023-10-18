@@ -196,3 +196,4 @@
 # Add script to print working directory (pwd)
 # Fix missing shebang in shell_basics script
 # Add usage notes for each script in comments
+# Create script that appends timestamp to logs
