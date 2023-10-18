@@ -199,3 +199,4 @@
 # Create script that appends timestamp to logs
 # Fix invalid characters in variable names
 # Add explanation comments to every example
+# Add script that unsets variables
