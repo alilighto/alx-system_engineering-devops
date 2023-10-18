@@ -202,3 +202,4 @@
 # Add script that unsets variables
 # Fix chmod script to handle invalid input
 # Add script with conditional permissions check
+# Add script redirecting stderr to stdout
