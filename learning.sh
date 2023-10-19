@@ -206,3 +206,4 @@
 # Add script to view numeric permission codes
 # Create script using alias definition
 # Add script showing use of `env` command
+# Add comments explaining execution order of commands
