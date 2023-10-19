@@ -204,3 +204,4 @@
 # Add script with conditional permissions check
 # Add script redirecting stderr to stdout
 # Add script to view numeric permission codes
+# Create script using alias definition
