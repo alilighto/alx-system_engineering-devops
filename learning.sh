@@ -211,3 +211,4 @@
 # Create script that reads input using <<
 # Add quiz script to test environment variable usage
 # Fix chmod script to handle invalid input
+# Add script using arithmetic expansion $(( ))
