@@ -212,3 +212,4 @@
 # Add quiz script to test environment variable usage
 # Fix chmod script to handle invalid input
 # Add script using arithmetic expansion $(( ))
+# Fix command not found error in expansion test
