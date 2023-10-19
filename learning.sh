@@ -205,3 +205,4 @@
 # Add script redirecting stderr to stdout
 # Add script to view numeric permission codes
 # Create script using alias definition
+# Add script showing use of `env` command
