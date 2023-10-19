@@ -208,3 +208,4 @@
 # Add script showing use of `env` command
 # Add comments explaining execution order of commands
 # Fix variable expansion with default fallback
+# Create script that reads input using <<
