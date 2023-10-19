@@ -209,3 +209,4 @@
 # Add comments explaining execution order of commands
 # Fix variable expansion with default fallback
 # Create script that reads input using <<
+# Add quiz script to test environment variable usage
