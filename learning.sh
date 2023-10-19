@@ -207,3 +207,4 @@
 # Create script using alias definition
 # Add script showing use of `env` command
 # Add comments explaining execution order of commands
+# Fix variable expansion with default fallback
