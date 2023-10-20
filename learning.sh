@@ -228,3 +228,4 @@
 # Add `set -e` to fail on error in script
 # Add script exporting dynamic variable values
 # Add comments to permission setting script
+# Fix spacing in PATH variable export
