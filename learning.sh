@@ -221,3 +221,4 @@
 # Add script to display contents of /tmp directory
 # Add `set -e` to fail on error in script
 # Fix pipe failure in redirection combo script
+# Fix script using incorrect expansion format
