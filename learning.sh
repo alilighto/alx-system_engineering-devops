@@ -224,3 +224,4 @@
 # Fix script using incorrect expansion format
 # Add interactive script to ask for input
 # Create script to change current directory
+# Add script that writes to a file using > operator
