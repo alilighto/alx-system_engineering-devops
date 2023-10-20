@@ -217,3 +217,4 @@
 # Add chmod example to set execute permission
 # Refactor variable expansion examples
 # Add explanation comments to every example
+# Create script that appends timestamp to logs
