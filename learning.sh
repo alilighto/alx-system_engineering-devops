@@ -223,3 +223,4 @@
 # Fix pipe failure in redirection combo script
 # Fix script using incorrect expansion format
 # Add interactive script to ask for input
+# Create script to change current directory
