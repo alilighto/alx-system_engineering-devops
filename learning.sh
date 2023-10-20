@@ -219,3 +219,4 @@
 # Add explanation comments to every example
 # Create script that appends timestamp to logs
 # Add script to display contents of /tmp directory
+# Add `set -e` to fail on error in script
