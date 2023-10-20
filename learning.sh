@@ -226,3 +226,4 @@
 # Create script to change current directory
 # Add script that writes to a file using > operator
 # Add `set -e` to fail on error in script
+# Add script exporting dynamic variable values
