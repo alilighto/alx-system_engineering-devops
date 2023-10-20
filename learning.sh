@@ -218,3 +218,4 @@
 # Refactor variable expansion examples
 # Add explanation comments to every example
 # Create script that appends timestamp to logs
+# Add script to display contents of /tmp directory
