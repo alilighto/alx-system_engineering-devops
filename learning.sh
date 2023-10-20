@@ -215,3 +215,4 @@
 # Fix command not found error in expansion test
 # Add script using nested variable expansions
 # Add chmod example to set execute permission
+# Refactor variable expansion examples
