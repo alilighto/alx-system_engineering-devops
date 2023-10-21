@@ -230,3 +230,4 @@
 # Add comments to permission setting script
 # Fix spacing in PATH variable export
 # Add script with conditional permissions check
+# Add script exporting dynamic variable values
