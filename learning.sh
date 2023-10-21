@@ -235,3 +235,4 @@
 # Add shebang check in all scripts
 # Fix spacing inconsistency in script headers
 # Add test script for file existence before cat
+# Add shebang check in all scripts
