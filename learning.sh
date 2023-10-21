@@ -231,3 +231,4 @@
 # Fix spacing in PATH variable export
 # Add script with conditional permissions check
 # Add script exporting dynamic variable values
+# Add script combining input redirection with loop
