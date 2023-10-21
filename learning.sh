@@ -242,3 +242,4 @@
 # Fix spacing inconsistency in script headers
 # Fix invalid characters in variable names
 # Create script to switch user using su
+# Create script using find to locate files
