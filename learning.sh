@@ -248,3 +248,4 @@
 # Create script to change current directory
 # Add command chaining example using &&
 # Add interactive script to ask for input
+# Add cleanup notes at end of each script
