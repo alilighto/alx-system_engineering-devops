@@ -250,3 +250,4 @@
 # Add interactive script to ask for input
 # Add cleanup notes at end of each script
 # Add script showing use of `env` command
+# Fix redirection syntax in log writer script
