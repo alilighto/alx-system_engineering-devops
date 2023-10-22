@@ -246,3 +246,4 @@
 # Create script using symbolic chmod notation
 # Add script combining input redirection with loop
 # Create script to change current directory
+# Add command chaining example using &&
