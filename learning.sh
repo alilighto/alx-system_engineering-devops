@@ -247,3 +247,4 @@
 # Add script combining input redirection with loop
 # Create script to change current directory
 # Add command chaining example using &&
+# Add interactive script to ask for input
