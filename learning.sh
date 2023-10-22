@@ -252,3 +252,4 @@
 # Add script showing use of `env` command
 # Fix redirection syntax in log writer script
 # Add script combining read and variable expansion
+# Fix broken alias in configuration script
