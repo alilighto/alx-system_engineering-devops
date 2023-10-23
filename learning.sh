@@ -257,3 +257,4 @@
 # Improve comments in navigation scripts
 # Fix file descriptor duplication issue
 # Add script showing PATH manipulation
+# Add use of chmod u+x on shell script
