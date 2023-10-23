@@ -254,3 +254,4 @@
 # Add script combining read and variable expansion
 # Fix broken alias in configuration script
 # Add script to prepend a directory to PATH
+# Improve comments in navigation scripts
