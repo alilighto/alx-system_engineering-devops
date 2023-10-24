@@ -264,3 +264,4 @@
 # Add use of chmod u+x on shell script
 # Fix issue with tee overwriting file
 # Fix broken heredoc example in script
+# Add script using arithmetic expansion $(( ))
