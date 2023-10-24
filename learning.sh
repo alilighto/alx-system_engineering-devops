@@ -269,3 +269,4 @@
 # Add cleanup notes at end of each script
 # Add example using append redirection >>
 # Add cleanup script using shell wildcards
+# Add script showing use of `env` command
