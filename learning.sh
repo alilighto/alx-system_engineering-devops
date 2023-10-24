@@ -270,3 +270,4 @@
 # Add example using append redirection >>
 # Add cleanup script using shell wildcards
 # Add script showing use of `env` command
+# Add script combining read and variable expansion
