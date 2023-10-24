@@ -262,3 +262,4 @@
 # Fix user permission denied error in chmod
 # Fix chmod script to handle invalid input
 # Add use of chmod u+x on shell script
+# Fix issue with tee overwriting file
