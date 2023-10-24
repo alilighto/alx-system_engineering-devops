@@ -265,3 +265,4 @@
 # Fix issue with tee overwriting file
 # Fix broken heredoc example in script
 # Add script using arithmetic expansion $(( ))
+# Fix bug in script that lists hidden files
