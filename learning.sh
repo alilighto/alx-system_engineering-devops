@@ -259,3 +259,4 @@
 # Add script showing PATH manipulation
 # Add use of chmod u+x on shell script
 # Fix broken alias in configuration script
+# Fix user permission denied error in chmod
