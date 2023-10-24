@@ -274,3 +274,4 @@
 # Fix syntax in export VAR=value command
 # Add script that writes to a file using > operator
 # Add test for empty variables before usage
+# Add example to list contents in long format
