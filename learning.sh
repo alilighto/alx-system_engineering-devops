@@ -275,3 +275,4 @@
 # Add script that writes to a file using > operator
 # Add test for empty variables before usage
 # Add example to list contents in long format
+# Add script using arithmetic expansion $(( ))
