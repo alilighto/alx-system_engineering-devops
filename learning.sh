@@ -267,3 +267,4 @@
 # Add script using arithmetic expansion $(( ))
 # Fix bug in script that lists hidden files
 # Add cleanup notes at end of each script
+# Add example using append redirection >>
