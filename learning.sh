@@ -277,3 +277,4 @@
 # Add example to list contents in long format
 # Add script using arithmetic expansion $(( ))
 # Fix order of redirection in combined output script
+# Fix permission bits for read-only file
