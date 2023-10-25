@@ -276,3 +276,4 @@
 # Add test for empty variables before usage
 # Add example to list contents in long format
 # Add script using arithmetic expansion $(( ))
+# Fix order of redirection in combined output script
