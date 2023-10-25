@@ -281,3 +281,4 @@
 # Add script to display contents of /tmp directory
 # Add script redirecting stderr to stdout
 # Fix shadowed variable in export test
+# Add script to print working directory (pwd)
