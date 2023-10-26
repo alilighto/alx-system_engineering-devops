@@ -283,3 +283,4 @@
 # Fix shadowed variable in export test
 # Add script to print working directory (pwd)
 # Create script showing special variables ($0, $1, etc)
+# Add script using parameter expansion ${VAR:-default}
