@@ -289,3 +289,4 @@
 # Add separator lines between script sections
 # Fix broken heredoc example in script
 # Fix invalid syntax in arithmetic expansion
+# Add comments to permission setting script
