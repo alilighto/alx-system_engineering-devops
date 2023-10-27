@@ -286,3 +286,4 @@
 # Add script using parameter expansion ${VAR:-default}
 # Add script using `printenv` to list variables
 # Add example using source to load environment
+# Add separator lines between script sections
