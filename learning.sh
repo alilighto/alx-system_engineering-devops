@@ -290,3 +290,4 @@
 # Fix broken heredoc example in script
 # Fix invalid syntax in arithmetic expansion
 # Add comments to permission setting script
+# Add script showing use of `env` command
