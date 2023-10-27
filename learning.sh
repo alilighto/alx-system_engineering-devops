@@ -292,3 +292,4 @@
 # Add comments to permission setting script
 # Add script showing use of `env` command
 # Fix invalid syntax in arithmetic expansion
+# Fix script using incorrect expansion format
