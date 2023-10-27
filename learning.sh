@@ -285,3 +285,4 @@
 # Create script showing special variables ($0, $1, etc)
 # Add script using parameter expansion ${VAR:-default}
 # Add script using `printenv` to list variables
+# Add example using source to load environment
