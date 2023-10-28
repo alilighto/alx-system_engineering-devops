@@ -295,3 +295,4 @@
 # Fix script using incorrect expansion format
 # Create script to output text using echo
 # Fix broken alias in configuration script
+# Add interactive script to ask for input
