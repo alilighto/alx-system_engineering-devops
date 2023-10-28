@@ -293,3 +293,4 @@
 # Add script showing use of `env` command
 # Fix invalid syntax in arithmetic expansion
 # Fix script using incorrect expansion format
+# Create script to output text using echo
