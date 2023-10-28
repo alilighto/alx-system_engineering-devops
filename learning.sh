@@ -294,3 +294,4 @@
 # Fix invalid syntax in arithmetic expansion
 # Fix script using incorrect expansion format
 # Create script to output text using echo
+# Fix broken alias in configuration script
