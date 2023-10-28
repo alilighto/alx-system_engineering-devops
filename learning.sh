@@ -296,3 +296,4 @@
 # Create script to output text using echo
 # Fix broken alias in configuration script
 # Add interactive script to ask for input
+# Add script that writes to a file using > operator
