@@ -301,3 +301,4 @@
 # Fix shadowed variable in export test
 # Fix script using >& instead of correct 2>&1
 # Fix redirection syntax in log writer script
+# Create script using find to locate files
