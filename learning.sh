@@ -298,3 +298,4 @@
 # Add interactive script to ask for input
 # Add script that writes to a file using > operator
 # Add script that loops through directories in PATH
+# Fix shadowed variable in export test
