@@ -304,3 +304,4 @@
 # Create script using find to locate files
 # Add script to discard output using /dev/null
 # Add command chaining example using &&
+# Add script to prepend a directory to PATH
