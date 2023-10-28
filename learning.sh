@@ -309,3 +309,4 @@
 # Add script showing usage of | with grep
 # Add comments to permission setting script
 # Add script showing use of `env` command
+# Add cleanup notes at end of each script
