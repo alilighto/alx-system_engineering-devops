@@ -302,3 +302,4 @@
 # Fix script using >& instead of correct 2>&1
 # Fix redirection syntax in log writer script
 # Create script using find to locate files
+# Add script to discard output using /dev/null
