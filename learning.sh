@@ -308,3 +308,4 @@
 # Add script to set multiple permissions at once
 # Add script showing usage of | with grep
 # Add comments to permission setting script
+# Add script showing use of `env` command
