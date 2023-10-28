@@ -299,3 +299,4 @@
 # Add script that writes to a file using > operator
 # Add script that loops through directories in PATH
 # Fix shadowed variable in export test
+# Fix script using >& instead of correct 2>&1
