@@ -313,3 +313,4 @@
 # Add script to print defined variables
 # Add script showing PATH manipulation
 # Add shebang check in all scripts
+# Add example to list contents in long format
