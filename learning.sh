@@ -311,3 +311,4 @@
 # Add script showing use of `env` command
 # Add cleanup notes at end of each script
 # Add script to print defined variables
+# Add script showing PATH manipulation
