@@ -310,3 +310,4 @@
 # Add comments to permission setting script
 # Add script showing use of `env` command
 # Add cleanup notes at end of each script
+# Add script to print defined variables
