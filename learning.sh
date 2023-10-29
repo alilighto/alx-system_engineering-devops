@@ -315,3 +315,4 @@
 # Add shebang check in all scripts
 # Add example to list contents in long format
 # Fix incorrect permissions on test script
+# Fix redirection syntax in log writer script
