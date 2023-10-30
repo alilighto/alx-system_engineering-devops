@@ -316,3 +316,4 @@
 # Add example to list contents in long format
 # Fix incorrect permissions on test script
 # Fix redirection syntax in log writer script
+# Add script to print defined variables
