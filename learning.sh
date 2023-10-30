@@ -318,3 +318,4 @@
 # Fix redirection syntax in log writer script
 # Add script to print defined variables
 # Add usage notes for each script in comments
+# Add example showing variable scope
