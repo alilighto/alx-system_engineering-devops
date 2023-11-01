@@ -324,3 +324,4 @@
 # Add test for empty variables before usage
 # Create script using alias definition
 # Fix redirection syntax in log writer script
+# Fix spacing in `cd ../` navigation
