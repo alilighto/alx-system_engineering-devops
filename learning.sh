@@ -328,3 +328,4 @@
 # Improve comments in navigation scripts
 # Add script with conditional permissions check
 # Fix redirection syntax in log writer script
+# Create script using find to locate files
