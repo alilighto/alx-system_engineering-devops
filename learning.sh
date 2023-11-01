@@ -323,3 +323,4 @@
 # Add chmod example to set execute permission
 # Add test for empty variables before usage
 # Create script using alias definition
+# Fix redirection syntax in log writer script
