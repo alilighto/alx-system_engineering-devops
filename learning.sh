@@ -321,3 +321,4 @@
 # Add example showing variable scope
 # Fix user permission denied error in chmod
 # Add chmod example to set execute permission
+# Add test for empty variables before usage
