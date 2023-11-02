@@ -335,3 +335,4 @@
 # Fix permission bits for read-only file
 # Add cleanup script using shell wildcards
 # Fix broken heredoc example in script
+# Add separator lines between script sections
