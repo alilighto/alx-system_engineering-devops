@@ -337,3 +337,4 @@
 # Fix broken heredoc example in script
 # Add separator lines between script sections
 # Add environment variable assignment script
+# Fix bug in script that lists hidden files
