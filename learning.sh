@@ -333,3 +333,4 @@
 # Add script combining grep and sort with pipe
 # Add shebang check in all scripts
 # Fix permission bits for read-only file
+# Add cleanup script using shell wildcards
