@@ -339,3 +339,4 @@
 # Add environment variable assignment script
 # Fix bug in script that lists hidden files
 # Fix redirection syntax in log writer script
+# Create script using symbolic chmod notation
