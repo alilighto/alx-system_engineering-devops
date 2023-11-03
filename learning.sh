@@ -354,3 +354,4 @@
 # Add example to list contents in long format
 # Fix invalid syntax in arithmetic expansion
 # Add script with conditional permissions check
+# Fix missing shebang in shell_basics script
