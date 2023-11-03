@@ -342,3 +342,4 @@
 # Create script using symbolic chmod notation
 # Add chmod example to set execute permission
 # Add script using += to append to variable
+# Add script using += to append to variable
