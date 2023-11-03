@@ -356,3 +356,4 @@
 # Add script with conditional permissions check
 # Fix missing shebang in shell_basics script
 # Add script using parameter expansion ${VAR:-default}
+# Use relative path for directory navigation script
