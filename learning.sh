@@ -353,3 +353,4 @@
 # Refactor script that moves files
 # Add example to list contents in long format
 # Fix invalid syntax in arithmetic expansion
+# Add script with conditional permissions check
