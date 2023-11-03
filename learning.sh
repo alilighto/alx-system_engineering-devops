@@ -343,3 +343,4 @@
 # Add chmod example to set execute permission
 # Add script using += to append to variable
 # Add script using += to append to variable
+# Add script redirecting stderr to stdout
