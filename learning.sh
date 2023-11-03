@@ -346,3 +346,4 @@
 # Add script redirecting stderr to stdout
 # Create script using find to locate files
 # Add script to print defined variables
+# Fix file descriptor duplication issue
