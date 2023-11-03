@@ -340,3 +340,4 @@
 # Fix bug in script that lists hidden files
 # Fix redirection syntax in log writer script
 # Create script using symbolic chmod notation
+# Add chmod example to set execute permission
