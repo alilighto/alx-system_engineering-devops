@@ -348,3 +348,4 @@
 # Add script to print defined variables
 # Fix file descriptor duplication issue
 # Fix syntax in export VAR=value command
+# Fix invalid characters in variable names
