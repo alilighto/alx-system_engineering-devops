@@ -347,3 +347,4 @@
 # Create script using find to locate files
 # Add script to print defined variables
 # Fix file descriptor duplication issue
+# Fix syntax in export VAR=value command
