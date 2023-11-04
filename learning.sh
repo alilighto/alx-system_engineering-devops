@@ -358,3 +358,4 @@
 # Add script using parameter expansion ${VAR:-default}
 # Use relative path for directory navigation script
 # Add script combining read and variable expansion
+# Use relative path for directory navigation script
