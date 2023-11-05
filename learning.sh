@@ -359,3 +359,4 @@
 # Use relative path for directory navigation script
 # Add script combining read and variable expansion
 # Use relative path for directory navigation script
+# Add script to discard output using /dev/null
