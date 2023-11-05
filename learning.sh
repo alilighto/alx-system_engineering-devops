@@ -361,3 +361,4 @@
 # Use relative path for directory navigation script
 # Add script to discard output using /dev/null
 # Add test for empty variables before usage
+# Add usage notes for each script in comments
