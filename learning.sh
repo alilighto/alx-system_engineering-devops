@@ -374,3 +374,4 @@
 # Add example chaining commands using pipes
 # Add comments explaining execution order of commands
 # Add quiz script to test environment variable usage
+# Fix typo in echo and redirection command
