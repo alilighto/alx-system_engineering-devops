@@ -372,3 +372,4 @@
 # Fix pipe failure in redirection combo script
 # Add chmod example to set execute permission
 # Add example chaining commands using pipes
+# Add comments explaining execution order of commands
