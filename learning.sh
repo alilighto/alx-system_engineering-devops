@@ -370,3 +370,4 @@
 # Add test script for file existence before cat
 # Create script to output text using echo
 # Fix pipe failure in redirection combo script
+# Add chmod example to set execute permission
