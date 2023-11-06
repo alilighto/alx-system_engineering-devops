@@ -379,3 +379,4 @@
 # Add example chaining commands using pipes
 # Create script to change current directory
 # Fix missing shebang in shell_basics script
+# Fix permission bits for read-only file
