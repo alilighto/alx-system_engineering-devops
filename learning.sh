@@ -376,3 +376,4 @@
 # Add quiz script to test environment variable usage
 # Fix typo in echo and redirection command
 # Add script piping output to wc -l
+# Add example chaining commands using pipes
