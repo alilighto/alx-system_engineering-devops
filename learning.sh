@@ -364,3 +364,4 @@
 # Add usage notes for each script in comments
 # Add test for empty variables before usage
 # Add test for empty variables before usage
+# Fix missing shebang in shell_basics script
