@@ -363,3 +363,4 @@
 # Add test for empty variables before usage
 # Add usage notes for each script in comments
 # Add test for empty variables before usage
+# Add test for empty variables before usage
