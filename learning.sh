@@ -366,3 +366,4 @@
 # Add test for empty variables before usage
 # Fix missing shebang in shell_basics script
 # Add cleanup notes at end of each script
+# Add cleanup script using shell wildcards
