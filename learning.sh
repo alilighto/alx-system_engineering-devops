@@ -367,3 +367,4 @@
 # Fix missing shebang in shell_basics script
 # Add cleanup notes at end of each script
 # Add cleanup script using shell wildcards
+# Add test script for file existence before cat
