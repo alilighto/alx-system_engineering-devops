@@ -384,3 +384,4 @@
 # Create script to output text using echo
 # Add script showing use of `env` command
 # Add script showing PATH manipulation
+# Fix loop variable conflict in PATH appender
