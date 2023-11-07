@@ -386,3 +386,4 @@
 # Add script showing PATH manipulation
 # Fix loop variable conflict in PATH appender
 # Add script that loops through directories in PATH
+# Add cleanup notes at end of each script
