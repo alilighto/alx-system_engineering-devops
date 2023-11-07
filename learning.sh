@@ -381,3 +381,4 @@
 # Fix missing shebang in shell_basics script
 # Fix permission bits for read-only file
 # Add script that loops through directories in PATH
+# Create script to output text using echo
