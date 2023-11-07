@@ -391,3 +391,4 @@
 # Add use of chmod u+x on shell script
 # Add example using append redirection >>
 # Fix invalid character in chmod +x line
+# Fix issue with tee overwriting file
