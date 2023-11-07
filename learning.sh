@@ -388,3 +388,4 @@
 # Add script that loops through directories in PATH
 # Add cleanup notes at end of each script
 # Add example to list contents in long format
+# Add use of chmod u+x on shell script
