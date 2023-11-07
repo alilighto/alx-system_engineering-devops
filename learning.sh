@@ -392,3 +392,4 @@
 # Add example using append redirection >>
 # Fix invalid character in chmod +x line
 # Fix issue with tee overwriting file
+# Fix invalid characters in variable names
