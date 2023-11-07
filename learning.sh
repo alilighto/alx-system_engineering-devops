@@ -383,3 +383,4 @@
 # Add script that loops through directories in PATH
 # Create script to output text using echo
 # Add script showing use of `env` command
+# Add script showing PATH manipulation
