@@ -407,3 +407,4 @@
 # 
 # Create script that reads input using <<
 # Add separator lines between script sections
+# Add cleanup notes at end of each script
