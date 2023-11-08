@@ -394,3 +394,4 @@
 # Fix issue with tee overwriting file
 # Fix invalid characters in variable names
 # Fix redirection syntax in log writer script
+# Add script to print defined variables
