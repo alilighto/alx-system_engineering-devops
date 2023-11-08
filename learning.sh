@@ -410,3 +410,4 @@
 # Add cleanup notes at end of each script
 # Add script to change ownership of a file
 # Add script to print working directory (pwd)
+# Fix order of redirection in combined output script
