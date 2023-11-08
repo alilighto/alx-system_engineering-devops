@@ -406,3 +406,4 @@
 # Fix loop variable conflict in PATH appender
 # 
 # Create script that reads input using <<
+# Add separator lines between script sections
