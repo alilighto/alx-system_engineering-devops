@@ -397,3 +397,4 @@
 # Add script to print defined variables
 # Fix invalid characters in variable names
 # Create script demonstrating stderr redirection
+# Fix issue with tee overwriting file
