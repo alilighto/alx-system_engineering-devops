@@ -402,3 +402,5 @@
 # Fix accidental overwrite with >
 # Add script to prepend a directory to PATH
 # Add script using `printenv` to list variables
+# 
+# Fix loop variable conflict in PATH appender
