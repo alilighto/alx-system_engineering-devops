@@ -401,3 +401,4 @@
 # Fix bug where export wasn’t persistent
 # Fix accidental overwrite with >
 # Add script to prepend a directory to PATH
+# Add script using `printenv` to list variables
