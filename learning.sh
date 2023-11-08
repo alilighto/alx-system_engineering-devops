@@ -409,3 +409,4 @@
 # Add separator lines between script sections
 # Add cleanup notes at end of each script
 # Add script to change ownership of a file
+# Add script to print working directory (pwd)
