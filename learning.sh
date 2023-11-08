@@ -404,3 +404,5 @@
 # Add script using `printenv` to list variables
 # 
 # Fix loop variable conflict in PATH appender
+# 
+# Create script that reads input using <<
