@@ -400,3 +400,4 @@
 # Fix issue with tee overwriting file
 # Fix bug where export wasn’t persistent
 # Fix accidental overwrite with >
+# Add script to prepend a directory to PATH
