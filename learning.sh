@@ -415,3 +415,4 @@
 # Add cleanup notes at end of each script
 # Add script to discard output using /dev/null
 # Add script using += to append to variable
+# Add comments explaining execution order of commands
