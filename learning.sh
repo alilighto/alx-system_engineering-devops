@@ -421,3 +421,4 @@
 # Fix spacing in PATH variable export
 # Fix invalid character in chmod +x line
 # Fix missing shebang in shell_basics script
+# Fix broken alias in configuration script
