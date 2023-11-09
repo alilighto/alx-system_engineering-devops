@@ -417,3 +417,4 @@
 # Add script using += to append to variable
 # Add comments explaining execution order of commands
 # Add test script for file existence before cat
+# Create script using alias definition
