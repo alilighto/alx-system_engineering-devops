@@ -413,3 +413,4 @@
 # Fix order of redirection in combined output script
 # Create script using symbolic chmod notation
 # Add cleanup notes at end of each script
+# Add script to discard output using /dev/null
