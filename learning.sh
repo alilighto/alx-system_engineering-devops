@@ -416,3 +416,4 @@
 # Add script to discard output using /dev/null
 # Add script using += to append to variable
 # Add comments explaining execution order of commands
+# Add test script for file existence before cat
