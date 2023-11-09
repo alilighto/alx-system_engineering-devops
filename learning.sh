@@ -412,3 +412,4 @@
 # Add script to print working directory (pwd)
 # Fix order of redirection in combined output script
 # Create script using symbolic chmod notation
+# Add cleanup notes at end of each script
