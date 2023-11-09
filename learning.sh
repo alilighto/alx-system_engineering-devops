@@ -420,3 +420,4 @@
 # Create script using alias definition
 # Fix spacing in PATH variable export
 # Fix invalid character in chmod +x line
+# Fix missing shebang in shell_basics script
