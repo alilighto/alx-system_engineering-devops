@@ -423,3 +423,4 @@
 # Fix missing shebang in shell_basics script
 # Fix broken alias in configuration script
 # Add script that evaluates expressions with `expr`
+# Add script to view numeric permission codes
