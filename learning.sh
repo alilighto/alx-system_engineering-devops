@@ -432,3 +432,4 @@
 # Add comments to permission setting script
 # Add script that renames multiple files using loop
 # Add script to print defined variables
+# Add script piping output to wc -l
