@@ -428,3 +428,4 @@
 # Fix bug in script that lists hidden files
 # Fix pipe failure in redirection combo script
 # Fix script using incorrect expansion format
+# Refactor redirection script with 2>&1
