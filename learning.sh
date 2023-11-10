@@ -435,3 +435,4 @@
 # Add script piping output to wc -l
 # Add script to discard output using /dev/null
 # Add script showing use of `env` command
+# Add script redirecting stderr to stdout
