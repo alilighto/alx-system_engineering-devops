@@ -430,3 +430,4 @@
 # Fix script using incorrect expansion format
 # Refactor redirection script with 2>&1
 # Add comments to permission setting script
+# Add script that renames multiple files using loop
