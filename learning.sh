@@ -433,3 +433,4 @@
 # Add script that renames multiple files using loop
 # Add script to print defined variables
 # Add script piping output to wc -l
+# Add script to discard output using /dev/null
