@@ -436,3 +436,4 @@
 # Add script to discard output using /dev/null
 # Add script showing use of `env` command
 # Add script redirecting stderr to stdout
+# Fix invalid characters in variable names
