@@ -425,3 +425,4 @@
 # Add script that evaluates expressions with `expr`
 # Add script to view numeric permission codes
 # Add script showing usage of | with grep
+# Fix bug in script that lists hidden files
