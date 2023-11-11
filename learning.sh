@@ -443,3 +443,4 @@
 # Add script to display contents of /tmp directory
 # Fix invalid syntax in arithmetic expansion
 # Add script combining grep and sort with pipe
+# Add cleanup script using shell wildcards
