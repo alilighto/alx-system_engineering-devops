@@ -440,3 +440,4 @@
 # Add script showing use of `env` command
 # Add script that evaluates expressions with `expr`
 # Create script that appends timestamp to logs
+# Add script to display contents of /tmp directory
