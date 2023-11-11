@@ -446,3 +446,4 @@
 # Add cleanup script using shell wildcards
 # Add comments explaining execution order of commands
 # Fix script using >& instead of correct 2>&1
+# Add script using nested variable expansions
