@@ -445,3 +445,4 @@
 # Add script combining grep and sort with pipe
 # Add cleanup script using shell wildcards
 # Add comments explaining execution order of commands
+# Fix script using >& instead of correct 2>&1
