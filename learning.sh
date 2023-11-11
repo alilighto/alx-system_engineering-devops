@@ -442,3 +442,4 @@
 # Create script that appends timestamp to logs
 # Add script to display contents of /tmp directory
 # Fix invalid syntax in arithmetic expansion
+# Add script combining grep and sort with pipe
