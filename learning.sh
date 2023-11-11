@@ -441,3 +441,4 @@
 # Add script that evaluates expressions with `expr`
 # Create script that appends timestamp to logs
 # Add script to display contents of /tmp directory
+# Fix invalid syntax in arithmetic expansion
