@@ -438,3 +438,4 @@
 # Add script redirecting stderr to stdout
 # Fix invalid characters in variable names
 # Add script showing use of `env` command
+# Add script that evaluates expressions with `expr`
