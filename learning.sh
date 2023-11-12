@@ -450,3 +450,4 @@
 # Fix invalid characters in variable names
 # Fix broken alias in configuration script
 # Fix broken heredoc example in script
+# Create script using alias definition
