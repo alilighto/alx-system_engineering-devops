@@ -465,3 +465,4 @@
 # Add script using nested variable expansions
 # Create script using symbolic chmod notation
 # Add explanation comments to every example
+# Fix issue with tee overwriting file
