@@ -456,3 +456,4 @@
 # Create script using symbolic chmod notation
 # Add explanation comments to every example
 # Add script to display contents of /tmp directory
+# Add script that evaluates expressions with `expr`
