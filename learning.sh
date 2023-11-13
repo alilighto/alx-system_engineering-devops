@@ -452,3 +452,4 @@
 # Fix broken heredoc example in script
 # Create script using alias definition
 # Refactor script that moves files
+# Fix broken alias in configuration script
