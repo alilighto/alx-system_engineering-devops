@@ -453,3 +453,4 @@
 # Create script using alias definition
 # Refactor script that moves files
 # Fix broken alias in configuration script
+# Create script using symbolic chmod notation
