@@ -459,3 +459,4 @@
 # Add script that evaluates expressions with `expr`
 # Add script with conditional permissions check
 # Fix order of operations in variable expansion
+# Add script to view numeric permission codes
