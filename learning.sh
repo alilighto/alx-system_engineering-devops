@@ -463,3 +463,4 @@
 # Fix spacing in `cd ../` navigation
 # Fix incorrect permissions on test script
 # Add script using nested variable expansions
+# Create script using symbolic chmod notation
