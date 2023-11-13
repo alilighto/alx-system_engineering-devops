@@ -462,3 +462,4 @@
 # Add script to view numeric permission codes
 # Fix spacing in `cd ../` navigation
 # Fix incorrect permissions on test script
+# Add script using nested variable expansions
