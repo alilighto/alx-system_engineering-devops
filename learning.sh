@@ -469,3 +469,4 @@
 # Add example showing variable scope
 # Fix missing shebang in shell_basics script
 # Fix order of redirection in combined output script
+# Add use of chmod u+x on shell script
