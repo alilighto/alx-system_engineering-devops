@@ -477,3 +477,4 @@
 # Fix chmod script to handle invalid input
 # Add script that evaluates expressions with `expr`
 # Add shebang check in all scripts
+# Add script using += to append to variable
