@@ -468,3 +468,4 @@
 # Fix issue with tee overwriting file
 # Add example showing variable scope
 # Fix missing shebang in shell_basics script
+# Fix order of redirection in combined output script
