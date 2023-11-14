@@ -481,3 +481,4 @@
 # Add chmod example to set execute permission
 # Add test for empty variables before usage
 # Add script using nested variable expansions
+# Fix incorrect permissions on test script
