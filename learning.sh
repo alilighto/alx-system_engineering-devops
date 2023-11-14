@@ -470,3 +470,4 @@
 # Fix missing shebang in shell_basics script
 # Fix order of redirection in combined output script
 # Add use of chmod u+x on shell script
+# Fix unset variable expansion warning
