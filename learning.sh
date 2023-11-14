@@ -471,3 +471,4 @@
 # Fix order of redirection in combined output script
 # Add use of chmod u+x on shell script
 # Fix unset variable expansion warning
+# Add script using += to append to variable
