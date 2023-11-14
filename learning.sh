@@ -473,3 +473,4 @@
 # Fix unset variable expansion warning
 # Add script using += to append to variable
 # Add script exporting dynamic variable values
+# Add separator lines between script sections
