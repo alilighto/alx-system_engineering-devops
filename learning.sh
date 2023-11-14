@@ -479,3 +479,4 @@
 # Add shebang check in all scripts
 # Add script using += to append to variable
 # Add chmod example to set execute permission
+# Add test for empty variables before usage
