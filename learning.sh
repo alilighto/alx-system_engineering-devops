@@ -486,3 +486,4 @@
 # Add script exporting dynamic variable values
 # Add chmod example to set execute permission
 # Add script to display contents of /tmp directory
+# Fix shadowed variable in export test
