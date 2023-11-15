@@ -484,3 +484,4 @@
 # Fix incorrect permissions on test script
 # Fix unset variable expansion warning
 # Add script exporting dynamic variable values
+# Add chmod example to set execute permission
