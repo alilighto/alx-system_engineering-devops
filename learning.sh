@@ -487,3 +487,4 @@
 # Add chmod example to set execute permission
 # Add script to display contents of /tmp directory
 # Fix shadowed variable in export test
+# Add script combining grep and sort with pipe
