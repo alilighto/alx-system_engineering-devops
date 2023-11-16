@@ -489,3 +489,4 @@
 # Fix shadowed variable in export test
 # Add script combining grep and sort with pipe
 # Add script combining input redirection with loop
+# Add script combining read and variable expansion
