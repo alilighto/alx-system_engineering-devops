@@ -492,3 +492,4 @@
 # Add script combining read and variable expansion
 # Add script to view numeric permission codes
 # Fix missing shebang in shell_basics script
+# Add script showing use of `env` command
