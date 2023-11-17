@@ -496,3 +496,4 @@
 # Add script that loops through directories in PATH
 # Fix syntax in export VAR=value command
 # Add script to change ownership of a file
+# Create script to output text using echo
