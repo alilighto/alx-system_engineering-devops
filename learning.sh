@@ -494,3 +494,4 @@
 # Fix missing shebang in shell_basics script
 # Add script showing use of `env` command
 # Add script that loops through directories in PATH
+# Fix syntax in export VAR=value command
