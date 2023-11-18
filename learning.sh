@@ -516,3 +516,4 @@
 # Add script using `printenv` to list variables
 # Use relative path for directory navigation script
 # Add script combining read and variable expansion
+# Add script to set multiple permissions at once
