@@ -501,3 +501,4 @@
 # Refactor script that moves files
 # Fix issue with tee overwriting file
 # Add script showing usage of | with grep
+# Add script using += to append to variable
