@@ -515,3 +515,4 @@
 # Add script that writes to a file using > operator
 # Add script using `printenv` to list variables
 # Use relative path for directory navigation script
+# Add script combining read and variable expansion
