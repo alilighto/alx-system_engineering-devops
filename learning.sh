@@ -507,3 +507,4 @@
 # Fix command not found error in expansion test
 # Create script demonstrating stderr redirection
 # Add example to list contents in long format
+# Fix typo in echo and redirection command
