@@ -513,3 +513,4 @@
 # Add script using arithmetic expansion $(( ))
 # Fix missing shebang in shell_basics script
 # Add script that writes to a file using > operator
+# Add script using `printenv` to list variables
