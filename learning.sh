@@ -512,3 +512,4 @@
 # Create script demonstrating stderr redirection
 # Add script using arithmetic expansion $(( ))
 # Fix missing shebang in shell_basics script
+# Add script that writes to a file using > operator
