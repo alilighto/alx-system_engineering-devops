@@ -509,3 +509,4 @@
 # Add example to list contents in long format
 # Fix typo in echo and redirection command
 # Fix spacing in PATH variable export
+# Create script demonstrating stderr redirection
