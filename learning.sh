@@ -505,3 +505,4 @@
 # Fix shadowed variable in export test
 # Use relative path for directory navigation script
 # Fix command not found error in expansion test
+# Create script demonstrating stderr redirection
