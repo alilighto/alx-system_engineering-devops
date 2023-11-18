@@ -503,3 +503,4 @@
 # Add script showing usage of | with grep
 # Add script using += to append to variable
 # Fix shadowed variable in export test
+# Use relative path for directory navigation script
