@@ -518,3 +518,4 @@
 # Add script combining read and variable expansion
 # Add script to set multiple permissions at once
 # Fix typo in ls script arguments
+# Create script using symbolic chmod notation
