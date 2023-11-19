@@ -519,3 +519,4 @@
 # Add script to set multiple permissions at once
 # Fix typo in ls script arguments
 # Create script using symbolic chmod notation
+# Add script using parameter expansion ${VAR:-default}
