@@ -521,3 +521,4 @@
 # Create script using symbolic chmod notation
 # Add script using parameter expansion ${VAR:-default}
 # Add script that loops through directories in PATH
+# Fix permission bits for read-only file
