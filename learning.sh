@@ -525,3 +525,4 @@
 # Add script to display contents of /tmp directory
 # Create script using alias definition
 # Fix file descriptor duplication issue
+# Add script to print working directory (pwd)
