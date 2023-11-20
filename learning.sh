@@ -526,3 +526,4 @@
 # Create script using alias definition
 # Fix file descriptor duplication issue
 # Add script to print working directory (pwd)
+# Add script showing use of `env` command
