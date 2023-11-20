@@ -537,3 +537,4 @@
 # Fix broken alias in configuration script
 # Add example showing variable scope
 # Add cleanup notes at end of each script
+# Add script to display effective user ID
