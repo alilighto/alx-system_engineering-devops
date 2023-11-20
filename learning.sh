@@ -523,3 +523,4 @@
 # Add script that loops through directories in PATH
 # Fix permission bits for read-only file
 # Add script to display contents of /tmp directory
+# Create script using alias definition
