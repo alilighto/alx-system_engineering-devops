@@ -535,3 +535,4 @@
 # Fix order of redirection in combined output script
 # Fix pipe failure in redirection combo script
 # Fix broken alias in configuration script
+# Add example showing variable scope
