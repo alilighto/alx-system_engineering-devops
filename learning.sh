@@ -536,3 +536,4 @@
 # Fix pipe failure in redirection combo script
 # Fix broken alias in configuration script
 # Add example showing variable scope
+# Add cleanup notes at end of each script
