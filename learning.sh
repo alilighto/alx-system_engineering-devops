@@ -531,3 +531,4 @@
 # Add script using += to append to variable
 # Add chmod example to set execute permission
 # Add script using nested variable expansions
+# Add cleanup script using shell wildcards
