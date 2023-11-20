@@ -532,3 +532,4 @@
 # Add chmod example to set execute permission
 # Add script using nested variable expansions
 # Add cleanup script using shell wildcards
+# Fix order of redirection in combined output script
