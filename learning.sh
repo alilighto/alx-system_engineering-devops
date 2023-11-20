@@ -534,3 +534,4 @@
 # Add cleanup script using shell wildcards
 # Fix order of redirection in combined output script
 # Fix pipe failure in redirection combo script
+# Fix broken alias in configuration script
