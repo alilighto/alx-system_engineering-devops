@@ -529,3 +529,4 @@
 # Add script showing use of `env` command
 # Fix spacing in PATH variable export
 # Add script using += to append to variable
+# Add chmod example to set execute permission
