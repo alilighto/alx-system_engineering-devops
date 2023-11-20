@@ -528,3 +528,4 @@
 # Add script to print working directory (pwd)
 # Add script showing use of `env` command
 # Fix spacing in PATH variable export
+# Add script using += to append to variable
