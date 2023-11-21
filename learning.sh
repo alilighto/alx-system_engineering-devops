@@ -540,3 +540,4 @@
 # Add script to display effective user ID
 # Add script to view numeric permission codes
 # Add script using nested variable expansions
+# Fix script using >& instead of correct 2>&1
