@@ -539,3 +539,4 @@
 # Add cleanup notes at end of each script
 # Add script to display effective user ID
 # Add script to view numeric permission codes
+# Add script using nested variable expansions
