@@ -543,3 +543,4 @@
 # Fix script using >& instead of correct 2>&1
 # Add script using nested variable expansions
 # Add interactive script to ask for input
+# Fix pipe failure in redirection combo script
