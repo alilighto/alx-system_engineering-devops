@@ -545,3 +545,4 @@
 # Add interactive script to ask for input
 # Fix pipe failure in redirection combo script
 # Fix invalid character in chmod +x line
+# Add comments to permission setting script
