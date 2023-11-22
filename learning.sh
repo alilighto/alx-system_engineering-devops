@@ -548,3 +548,4 @@
 # Add comments to permission setting script
 # Add script that loops through directories in PATH
 # Add cleanup script using shell wildcards
+# Add script to print defined variables
