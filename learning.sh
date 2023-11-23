@@ -550,3 +550,4 @@
 # Add cleanup script using shell wildcards
 # Add script to print defined variables
 # Fix spacing in PATH variable export
+# Add script combining grep and sort with pipe
