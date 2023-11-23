@@ -555,3 +555,4 @@
 # Add example chaining commands using pipes
 # Fix typo in echo and redirection command
 # Add script exporting dynamic variable values
+# Add interactive script to ask for input
