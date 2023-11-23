@@ -559,3 +559,4 @@
 # Add quiz script to test environment variable usage
 # Fix unset variable expansion warning
 # Add script to prepend a directory to PATH
+# Fix command not found error in expansion test
