@@ -561,3 +561,4 @@
 # Add script to prepend a directory to PATH
 # Fix command not found error in expansion test
 # Fix bug where export wasn’t persistent
+# Add use of chmod u+x on shell script
