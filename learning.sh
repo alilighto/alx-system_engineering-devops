@@ -568,3 +568,4 @@
 # Add script using tee for logging
 # Add example chaining commands using pipes
 # Fix shadowed variable in export test
+# Add script to print working directory (pwd)
