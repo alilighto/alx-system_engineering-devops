@@ -566,3 +566,4 @@
 # Add script combining read and variable expansion
 # Fix command not found error in expansion test
 # Add script using tee for logging
+# Add example chaining commands using pipes
