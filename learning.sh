@@ -564,3 +564,4 @@
 # Add use of chmod u+x on shell script
 # Add script using nested variable expansions
 # Add script combining read and variable expansion
+# Fix command not found error in expansion test
