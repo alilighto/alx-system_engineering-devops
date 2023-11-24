@@ -562,3 +562,4 @@
 # Fix command not found error in expansion test
 # Fix bug where export wasn’t persistent
 # Add use of chmod u+x on shell script
+# Add script using nested variable expansions
