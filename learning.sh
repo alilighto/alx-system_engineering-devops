@@ -569,3 +569,4 @@
 # Add example chaining commands using pipes
 # Fix shadowed variable in export test
 # Add script to print working directory (pwd)
+# Fix invalid character in chmod +x line
