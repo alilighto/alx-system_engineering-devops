@@ -572,3 +572,4 @@
 # Fix invalid character in chmod +x line
 # Add test script for file existence before cat
 # Add comments to permission setting script
+# Fix order of operations in variable expansion
