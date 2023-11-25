@@ -574,3 +574,4 @@
 # Add comments to permission setting script
 # Fix order of operations in variable expansion
 # Add usage notes for each script in comments
+# Create script using alias definition
