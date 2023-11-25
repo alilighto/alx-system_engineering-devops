@@ -571,3 +571,4 @@
 # Add script to print working directory (pwd)
 # Fix invalid character in chmod +x line
 # Add test script for file existence before cat
+# Add comments to permission setting script
