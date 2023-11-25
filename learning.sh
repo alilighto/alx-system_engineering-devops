@@ -578,3 +578,4 @@
 # Refactor variable expansion examples
 # Add script that loops through directories in PATH
 # Add example chaining commands using pipes
+# Refactor redirection script with 2>&1
