@@ -594,3 +594,4 @@
 # Create script using symbolic chmod notation
 # Add script using tee for logging
 # Fix spacing in `cd ../` navigation
+# Add script using parameter expansion ${VAR:-default}
