@@ -596,3 +596,4 @@
 # Fix spacing in `cd ../` navigation
 # Add script using parameter expansion ${VAR:-default}
 # Fix typo in ls script arguments
+# Add cleanup notes at end of each script
