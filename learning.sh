@@ -590,3 +590,4 @@
 # Add example to list contents in long format
 # Fix order of operations in variable expansion
 # Improve comments in navigation scripts
+# Add quiz script to test environment variable usage
