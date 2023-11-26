@@ -595,3 +595,4 @@
 # Add script using tee for logging
 # Fix spacing in `cd ../` navigation
 # Add script using parameter expansion ${VAR:-default}
+# Fix typo in ls script arguments
