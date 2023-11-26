@@ -583,3 +583,4 @@
 # Add script to view numeric permission codes
 # Add usage notes for each script in comments
 # Add script that unsets variables
+# Create script to output text using echo
