@@ -585,3 +585,4 @@
 # Add script that unsets variables
 # Create script to output text using echo
 # Fix broken alias in configuration script
+# Refactor redirection script with 2>&1
