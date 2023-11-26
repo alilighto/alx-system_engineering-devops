@@ -586,3 +586,4 @@
 # Create script to output text using echo
 # Fix broken alias in configuration script
 # Refactor redirection script with 2>&1
+# Fix order of redirection in combined output script
