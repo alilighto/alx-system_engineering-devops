@@ -589,3 +589,4 @@
 # Fix order of redirection in combined output script
 # Add example to list contents in long format
 # Fix order of operations in variable expansion
+# Improve comments in navigation scripts
