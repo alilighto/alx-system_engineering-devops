@@ -588,3 +588,4 @@
 # Refactor redirection script with 2>&1
 # Fix order of redirection in combined output script
 # Add example to list contents in long format
+# Fix order of operations in variable expansion
