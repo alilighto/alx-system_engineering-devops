@@ -598,3 +598,4 @@
 # Fix typo in ls script arguments
 # Add cleanup notes at end of each script
 # Fix invalid characters in variable names
+# Fix missing shebang in shell_basics script
