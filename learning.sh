@@ -602,3 +602,4 @@
 # Add test for empty variables before usage
 # Add script piping output to wc -l
 # Add script exporting dynamic variable values
+# Add script using nested variable expansions
