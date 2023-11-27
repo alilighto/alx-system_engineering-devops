@@ -608,3 +608,4 @@
 # Add script combining grep and sort with pipe
 # Fix pipe failure in redirection combo script
 # Add quiz script to test environment variable usage
+# Add example showing variable scope
