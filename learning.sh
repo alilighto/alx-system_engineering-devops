@@ -605,3 +605,4 @@
 # Add script using nested variable expansions
 # Fix script using incorrect expansion format
 # Fix broken heredoc example in script
+# Add script combining grep and sort with pipe
