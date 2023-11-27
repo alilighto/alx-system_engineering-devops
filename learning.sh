@@ -601,3 +601,4 @@
 # Fix missing shebang in shell_basics script
 # Add test for empty variables before usage
 # Add script piping output to wc -l
+# Add script exporting dynamic variable values
