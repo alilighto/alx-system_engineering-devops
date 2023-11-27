@@ -612,3 +612,4 @@
 # Fix unset variable expansion warning
 # Fix pipe failure in redirection combo script
 # Fix loop variable conflict in PATH appender
+# Refactor script that moves files
