@@ -610,3 +610,4 @@
 # Add quiz script to test environment variable usage
 # Add example showing variable scope
 # Fix unset variable expansion warning
+# Fix pipe failure in redirection combo script
