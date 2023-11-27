@@ -613,3 +613,4 @@
 # Fix pipe failure in redirection combo script
 # Fix loop variable conflict in PATH appender
 # Refactor script that moves files
+# Add script showing PATH manipulation
