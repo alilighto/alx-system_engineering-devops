@@ -611,3 +611,4 @@
 # Add example showing variable scope
 # Fix unset variable expansion warning
 # Fix pipe failure in redirection combo script
+# Fix loop variable conflict in PATH appender
