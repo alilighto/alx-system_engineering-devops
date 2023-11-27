@@ -600,3 +600,4 @@
 # Fix invalid characters in variable names
 # Fix missing shebang in shell_basics script
 # Add test for empty variables before usage
+# Add script piping output to wc -l
