@@ -614,3 +614,4 @@
 # Fix loop variable conflict in PATH appender
 # Refactor script that moves files
 # Add script showing PATH manipulation
+# Fix order of redirection in combined output script
