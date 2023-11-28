@@ -617,3 +617,4 @@
 # Fix order of redirection in combined output script
 # Add script combining grep and sort with pipe
 # Add script using arithmetic expansion $(( ))
+# Fix variable expansion with default fallback
