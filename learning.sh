@@ -618,3 +618,4 @@
 # Add script combining grep and sort with pipe
 # Add script using arithmetic expansion $(( ))
 # Fix variable expansion with default fallback
+# Add example using source to load environment
