@@ -621,3 +621,4 @@
 # Add example using source to load environment
 # Create script using alias definition
 # Fix spacing in `cd ../` navigation
+# Add `set -e` to fail on error in script
