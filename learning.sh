@@ -623,3 +623,4 @@
 # Fix spacing in `cd ../` navigation
 # Add `set -e` to fail on error in script
 # Fix invalid character in chmod +x line
+# Add script that unsets variables
