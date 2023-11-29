@@ -625,3 +625,4 @@
 # Fix invalid character in chmod +x line
 # Add script that unsets variables
 # Fix order of operations in variable expansion
+# Create script to switch user using su
