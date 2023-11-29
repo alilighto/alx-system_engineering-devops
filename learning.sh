@@ -620,3 +620,4 @@
 # Fix variable expansion with default fallback
 # Add example using source to load environment
 # Create script using alias definition
+# Fix spacing in `cd ../` navigation
