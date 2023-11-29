@@ -628,3 +628,4 @@
 # Create script to switch user using su
 # Create script demonstrating stderr redirection
 # Add environment variable assignment script
+# Refactor variable expansion examples
