@@ -639,3 +639,4 @@
 # Fix shadowed variable in export test
 # Add script to view numeric permission codes
 # Add script exporting dynamic variable values
+# Fix bug where export wasn’t persistent
