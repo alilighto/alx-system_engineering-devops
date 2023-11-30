@@ -640,3 +640,4 @@
 # Add script to view numeric permission codes
 # Add script exporting dynamic variable values
 # Fix bug where export wasn’t persistent
+# Fix syntax in export VAR=value command
