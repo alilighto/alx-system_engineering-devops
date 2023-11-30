@@ -634,3 +634,4 @@
 # Add script to set multiple permissions at once
 # Fix unset variable expansion warning
 # Add `set -e` to fail on error in script
+# Create script to change current directory
