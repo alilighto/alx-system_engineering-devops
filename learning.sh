@@ -637,3 +637,4 @@
 # Create script to change current directory
 # Add quiz script to test environment variable usage
 # Fix shadowed variable in export test
+# Add script to view numeric permission codes
