@@ -642,3 +642,4 @@
 # Fix bug where export wasn’t persistent
 # Fix syntax in export VAR=value command
 # Add script using arithmetic expansion $(( ))
+# Add script using `printenv` to list variables
